@@ -1,0 +1,1 @@
+Ini adalah website alumni bicara milik SMK Nasional Bandung. Website ini dirancang dan dibangun oleh Muchammad Rizky Yudistira selaku junior front - end developer yang melakukan riset skripsi sekaligus bekerja sebagai IT Support di SMK Nasional Bandung. 
