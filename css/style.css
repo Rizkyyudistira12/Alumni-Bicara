@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    min-height: 1000px;
+}
+
+.nav-item {
+    margin-right: 1.2em;
+}
+
+.shadow {
+    transition: 1s;
+}
+
+.active {
+    font-weight: 700;
+}
+
+.btn-navbar {
+    background: #FF8C00;
+    color: white;
+}
+
+.btn-navbar:hover {
+    background: #0400fc;
+    color: white;
+}
+
+.btn-outline-navbar {
+    background: none;
+    color: #96a0a5;
+    border: 1px #31b0eb solid;
+}
+
+.btn-outline-navbar:hover {
+    background: #1073a1;
+    color: white;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #3CB371;
+    padding-top: 6rem;
+}
+
+.wall {
+    padding-top: 5rem;
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("/img/Bg_about.jpg");
+    background-size: cover;
+}
+
+.alumni {
+    padding-top: 5rem;
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("/img/Bg_alumni.jpg");
+    background-size: cover;
+}
+
+.register {
+    padding-top: 5rem;
+    background-color: #87CEEB;
+}
+
+.btn-hero {
+    background: #31b0eb;
+    color: white;
+    text-transform: uppercase;
+}
+
+.btn-hero:hover {
+    background: #1073a1;
+    color: white;
+    text-transform: uppercase;
+}
+
+#services{
+    background-color: #e2edff;
+}
+
+.footer {
+    background-color: #2F4F4F;
+    padding-bottom: 150px;
+}
+
+.footer-link {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.footer-link li {
+    margin-top: 10px;
+}
+
+.footer-link li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-link li a:hover {
+    color: black;
+}
+
+.footer-bottom {
+    background-color: black;
+}
+
